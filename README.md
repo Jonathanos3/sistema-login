@@ -6,9 +6,9 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 
 Projeto desenvolvido para teste prático. Criação SPA de tela de login e de registro com validações e rotas. 
 
-![Tela de login-register figma](https://github.com/Jonathanos3/sistema-login/assets/96554601/54baa0be-c8be-4c54-8465-c6172b172453)
-![Tela de login](https://github.com/Jonathanos3/sistema-login/assets/96554601/7571ea79-4c04-4662-8650-93ce50be3e2c)
-![Tela de registro](https://github.com/Jonathanos3/sistema-login/assets/96554601/f3440900-9ff1-4043-8f26-964c29f980f7)
+![Tela de login-register figma](https://github.com/Jonathanos3/sistema-login/assets/96554601/f9568d02-7e3c-4692-83b5-95707daca7ac)
+![Tela de login](https://github.com/Jonathanos3/sistema-login/assets/96554601/bbf730dd-12ce-4946-ac2c-f081e0b92fdf)
+![Tela de registro](https://github.com/Jonathanos3/sistema-login/assets/96554601/6e63246e-d68d-455a-8c87-1232ee81927e)
 
 
 ## 
