@@ -15,9 +15,9 @@ Projeto desenvolvido para teste prático. Criação SPA de tela de login e de re
 
 ## Rodando o projeto
 
-Inicialmente você precisa ter o VScode instalado na sua máquina, depois você deverá in no github, clonar o projeto e salvar em algum lugar que seja de fácil acesso. Em seguida você precisa instalar o Nodejs na sua máquina pelo seu prompt de comando (ja vem com o NPM - que é um gerenciamento de pacotes com inúmeras dependências). Sem isso você não irá conseguir rodar o projeto.
+Inicialmente você precisa ter o VScode instalado na sua máquina, depois você deverá ir no github, clonar o projeto e salvar em algum lugar que seja de fácil acesso. Em seguida você precisa instalar o Nodejs na sua máquina pelo seu prompt de comando (ja vem com o NPM - que é um gerenciamento de pacotes com inúmeras dependências). Sem isso você não irá conseguir rodar o projeto.
 
-Instalado o Nodejs, abra o seu Vscode, procure a pasta do projeto. Abra o terminal e digita "npm start" para que o projeto seja aberto no brawser.
+Instalado o Nodejs, abra o seu Vscode, procure a pasta do projeto. Abra o terminal e digita "npm start" para que o projeto seja aberto no browser.
 
 
 ## Tecnologias utilizadas
